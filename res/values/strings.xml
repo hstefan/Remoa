@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
-    <string name="hello">Hello World, RemoaActivity!</string>
     <string name="app_name">Remoa</string>
-
+    <string name="error">Erro</string>
+    <string name="invalid_qrcode_msg">QR-Code com conteúdo inválido.</string>
+    <string name="no_barcode_error">Nenhum QR-Code foi detectado.</string>
+    <string name="notification">Notificação</string>
+    <string name="warn_using_qrcode_location">Você está sem GPS. Então será usado o QR-Code.</string>
+    
 </resources>
